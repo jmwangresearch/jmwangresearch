@@ -13,7 +13,7 @@ name                     : &name "Jonathan Wang"
 description              : &description "(Website under construction)"
 url                      : https://jmwangresearch.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jmwangresearch/jmwangresearch.github.io"
+repository               : "jmwangresearch.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
